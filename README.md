@@ -14,8 +14,13 @@ Introduction to Excel, Data Analysis with Excel Pivot Tables
 Understanding Market Dynamics through Detailed Product Analysis of the Baby Care Segment
 
 •	1 Project file
+
 •	Part 1: Data preprocessing
+
 •	Part 2: Primary report table structure
+
 •	Part 3: Fill in the report
+
 •	Part 4: Insert slicers
+
 •	Part 5: Interpretation
