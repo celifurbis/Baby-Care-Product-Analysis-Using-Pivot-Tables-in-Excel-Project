@@ -1,4 +1,4 @@
-# Baby-Care-Product-Analysis-Using-Pivot-Tables-in-Excel-Project
+# 1 - Baby-Care-Product-Analysis-Using-Pivot-Tables-in-Excel-Project
 ## Understanding Market Dynamics and Manufacturer Perfomance in the baby care segment
 
 This Excel project you will get the chance to apply crucial analysis techniques for any organization boasting a comprehensive range of products. Leverage Excel pivot tables and slicers to create a report that gives 360-degree visibility of business performance. Management needs this type of analysis to understand how different brands, package types, package sizes, and stock keeping units performed over time. This is an optimal way to track performance and monitor industry trends as a whole, allowing to drill down and uncover detailed insights at lower breakdown levels.
